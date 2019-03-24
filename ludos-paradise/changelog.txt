@@ -1,0 +1,13 @@
+Version 1.0
+	Release
+
+Version 2.0
+    Сhanged name to Game Paradise
+	Updated Visual Composer Extensions All In One to its latest version
+    Updated Revolution Slider to its latest version
+    Updated Visual Composer to its latest version
+    Updated Essential Grid to its latest version
+    Updated demo data
+    Fixed TRXAddons
+    Fixed Imports
+    Added new CSS styles

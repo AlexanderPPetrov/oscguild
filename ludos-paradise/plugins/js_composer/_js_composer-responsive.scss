@@ -1,0 +1,6 @@
+@mixin js_composer--md() {
+    /* Visual Composer */
+	.wpb_text_column[class*="scheme_"]:not([class*="sc_extra_bg_"]) {
+		padding: 1.5em;
+	}
+}
